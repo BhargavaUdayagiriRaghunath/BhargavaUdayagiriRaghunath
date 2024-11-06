@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bhargava!
+👋 Hi, I’m Bhargava!
 Bioinformatician | Human Genetics Enthusiast
 
 - 👀 I’m interested in solving complex diseases with lots of variables
