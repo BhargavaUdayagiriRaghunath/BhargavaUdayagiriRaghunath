@@ -1,5 +1,5 @@
-👋 Hi, I’m Bhargava!
-Bioinformatician | Human Genetics Enthusiast
+# **👋 Hi, I’m Bhargava!**
+## Bioinformatician | Human Genetics Enthusiast
 
 ![2024-11-06 13 52 43](https://github.com/user-attachments/assets/fc7629f5-1d6f-400d-afba-e2d4c2921172)
 
