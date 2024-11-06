@@ -1,6 +1,9 @@
 👋 Hi, I’m Bhargava!
 Bioinformatician | Human Genetics Enthusiast
 
+![2024-11-06 13 52 43](https://github.com/user-attachments/assets/fc7629f5-1d6f-400d-afba-e2d4c2921172)
+
+
 - 👀 I’m interested in solving complex diseases with lots of variables
 - 🌱 I’m currently learning all I can to understand the complexities of the human genome
 - ⚡ Fun fact: I am also extremely enthusiastic about automobile engineering
