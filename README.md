@@ -1,4 +1,4 @@
-<h1 align="center">**👋 Hi, I’m Bhargava!**</h1>
+<h1 align="center">👋 Hi, I’m Bhargava!</h1>
 <h2 align="center">Bioinformatician | Human Genetics Enthusiast</h2>
 
 ![2024-11-06 13 52 43](https://github.com/user-attachments/assets/fc7629f5-1d6f-400d-afba-e2d4c2921172)
